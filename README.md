@@ -66,11 +66,11 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 </p>
 
 <p align="center">
-<a href="https://codeforces.com/profile/Mr_Aaka"><img src="https://cfrating.baoduy.dev/api/rating?username=Mr_Aaka" alt="Codeforces"/></a>
+<a href="https://codeforces.com/profile/Mr_Aaka"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mr_Aaka" alt="Codeforces Stats"/></a>
 </p>
 
 <p align="center">
-<a href="https://leetcode.com/u/Mr_Aaka/"><img src="https://leetcode-stats-card.vercel.app/api?username=Mr_Aaka&theme=dark" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/Mr_Aaka/"><img src="https://leetcard.jacoblin.cool/Mr_Aaka?theme=dark" alt="LeetCode Stats"/></a>
 </p>
 
 <p align="center">
