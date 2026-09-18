@@ -39,8 +39,8 @@ EEE @ BITS Pilani, Goa · Software-leaning · Competitive Programmer · Computer
 
 ### 📊 Stats
 
-![Codeforces](https://cfrating.vercel.app/api/rating?username=Mr_Aaka)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aavishkar331&show_icons=true&theme=dark&hide_border=true)
+[![Codeforces](https://cfrating.baoduy.dev/api/rating?username=Mr_Aaka)](https://codeforces.com/profile/Mr_Aaka)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aavishkar331&show_icons=true&theme=dark&hide_border=true)](https://github.com/Aavishkar331)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aavishkar-kanani-034853394/">LinkedIn</a> · 
