@@ -23,9 +23,9 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 
 | Project | Description |
 |---|---|
-| [🃏 Monte Carlo Poker AI](https://aavishkar331.github.io/Montecarlo-poker-ai/) | Texas Hold'em bot using Monte Carlo simulation for win-probability estimation. C++, Raylib UI, compiled to WebAssembly. [Play in browser →](https://aavishkar331.github.io/poker-ai/) |
-| [📈 Desmos Clone](https://aavishkar331.github.io/Desmos-clone/) | Graphing calculator with implicit curve rendering via signed distance fields, expression parsing with exprtk. C++/Raylib. |
-| [🎮 Tetris Clone](https://aavishkar331.github.io/Tetris-clone/) | Tetris engine from scratch — rotation-matrix logic for all 7 tetrominoes, collision + line-clear. C++/Raylib. |
+| [🃏 Monte Carlo Poker AI](https://github.com/Aavishkar331/Montecarlo-poker-ai) | Texas Hold'em bot using Monte Carlo simulation for win-probability estimation. C++, Raylib UI, compiled to WebAssembly. [Deployed](https://aavishkar331.github.io/poker-ai/) |
+| [📈 Desmos Clone](https://github.com/Aavishkar331/Desmos-clone)| Graphing calculator with implicit curve rendering via signed distance fields, expression parsing with exprtk. C++/Raylib. [Deployed](https://aavishkar331.github.io/Desmos-clone/)
+| [🎮 Tetris Clone](https://github.com/Aavishkar331/Tetris-clone) | Tetris engine from scratch — rotation-matrix logic for all 7 tetrominoes, collision + line-clear. C++/Raylib. [Deployed](https://aavishkar331.github.io/Tetris-clone/)
 | [🔢 MNIST Neural Net from Scratch](https://github.com/Aavishkar331/MNIST-neural-network-with-Numpy) | Digit-classification neural network implemented with only NumPy — no ML frameworks. |
 
 ---
