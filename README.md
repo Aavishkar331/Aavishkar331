@@ -61,11 +61,17 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 
 ### 📊 Stats
 
-[![Codeforces](https://cfrating.baoduy.dev/api/rating?username=Mr_Aaka)](https://codeforces.com/profile/Mr_Aaka)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aavishkar331&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aavishkar331&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Aavishkar331)
+<p align="center">
+<a href="https://codeforces.com/profile/Mr_Aaka"><img src="https://cfrating.baoduy.dev/api/rating?username=Mr_Aaka" alt="Codeforces"/></a>
+</p>
 
-[![LeetCode](https://leetcode-stats-card.vercel.app/api?username=Mr_Aaka&theme=dark)](https://leetcode.com/u/Mr_Aaka/)
+<p align="center">
+<a href="https://leetcode.com/u/Mr_Aaka/"><img src="https://leetcode-stats-card.vercel.app/api?username=Mr_Aaka&theme=dark" alt="LeetCode"/></a>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aavishkar-kanani-034853394/">LinkedIn</a> · 
