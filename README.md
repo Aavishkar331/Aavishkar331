@@ -53,10 +53,9 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 
 ### 🎮 Beyond Code
 
-- ♟️ Chess
-- 📖 Reads manga — currently on *Boruto: Two Blue Vortex*
-- 🎨 Dabbled in photography, drawing, YouTube content creation
-- 🕹️ Currently playing: **Minecraft**, **Genshin Impact**, **Phasmophobia**
+- ♟️ Chess,Minecraft,Genshin Impact,Phasmophobia
+- 📖 Reads manga — currently on *Boruto: Two Blue Vortex*,*Dan Da Dan* and *Blue lock U20 WC*
+- 🎨 Dabbled in Gaming, Drawing, Overthinking and Competitve programming
 
 ---
 
@@ -64,7 +63,7 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 
 [![Codeforces](https://cfrating.baoduy.dev/api/rating?username=Mr_Aaka)](https://codeforces.com/profile/Mr_Aaka)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aavishkar331&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Aavishkar331)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aavishkar331&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Aavishkar331)
 
 [![LeetCode](https://leetcode-stats-card.vercel.app/api?username=Mr_Aaka&theme=dark)](https://leetcode.com/u/Mr_Aaka/)
 
