@@ -19,17 +19,6 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 
 ---
 
-### 🚀 Projects
-
-| Project | Description |
-|---|---|
-| [🃏 Monte Carlo Poker AI](https://github.com/Aavishkar331/Montecarlo-poker-ai) | Texas Hold'em bot using Monte Carlo simulation for win-probability estimation. C++, Raylib UI, compiled to WebAssembly. [Deployed](https://aavishkar331.github.io/poker-ai/) |
-| [📈 Desmos Clone](https://github.com/Aavishkar331/Desmos-clone)| Graphing calculator with implicit curve rendering via signed distance fields, expression parsing with exprtk. C++/Raylib. [Deployed](https://aavishkar331.github.io/Desmos-clone/)
-| [🎮 Tetris Clone](https://github.com/Aavishkar331/Tetris-clone) | Tetris engine from scratch — rotation-matrix logic for all 7 tetrominoes, collision + line-clear. C++/Raylib. [Deployed](https://aavishkar331.github.io/Tetris-clone/)
-| [🔢 MNIST Neural Net from Scratch](https://github.com/Aavishkar331/MNIST-neural-network-with-Numpy) | Digit-classification neural network implemented with only NumPy — no ML frameworks. |
-
----
-
 ### 🛠️ Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -48,34 +37,3 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 ![pybind11](https://img.shields.io/badge/-pybind11-grey?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 🎮 Beyond Code
-
-- ♟️ Chess,Minecraft,Genshin Impact,Phasmophobia
-- 📖 Reads manga — currently on *Boruto: Two Blue Vortex*,*Dan Da Dan* and *Blue lock U20 WC*
-- 🎨 Dabbled in Gaming, Drawing, Overthinking and Competitve programming
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aavishkar331&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</p>
-
-<p align="center">
-<a href="https://codeforces.com/profile/Mr_Aaka"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mr_Aaka" alt="Codeforces Stats"/></a>
-</p>
-
-<p align="center">
-<a href="https://leetcode.com/u/Mr_Aaka/"><img src="https://leetcard.jacoblin.cool/Mr_Aaka?theme=dark" alt="LeetCode Stats"/></a>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aavishkar-kanani-034853394/">LinkedIn</a> · 
-<a href="https://codeforces.com/profile/Mr_Aaka">Codeforces</a> · 
-<a href="https://leetcode.com/u/Mr_Aaka/">LeetCode</a> · 
-<a href="https://www.instagram.com/aavishkar331/">Instagram</a>
-</p>
