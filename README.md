@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aavishkar 👋</h1>
+<h1 align="center">Hi, I'm Aavishkar</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aavishkar331/Aavishkar331/main/docs/tetris-name.svg" alt="AAVISHKAR"/>
@@ -10,7 +10,7 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 
 ---
 
-### ⚡ About
+### About
 
 - EEE undergrad, BITS Pilani Goa Campus
 - Focused on systems programming, ML infra, and computer vision
@@ -19,7 +19,7 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 
 ---
 
-### 🔧 Tools & Tech
+### Tools & Tech
 
 - React, TypeScript, Tailwind, Vite
 - Emscripten (WASM builds), REST APIs
