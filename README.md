@@ -12,14 +12,22 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 
 ### ⚡ About
 
-- 🎓 EEE undergrad, BITS Pilani Goa Campus
-- 🖥️ Focused on systems programming, ML infra, and computer vision
-- 🏆 Codeforces **Specialist**([Mr_Aaka](https://codeforces.com/profile/Mr_Aaka)) — 500+ problems solved
-- 🎥 Ex Computer Vision Intern @ AIVID Techvision — optimized YOLOv6 (TensorRT/CUDA) 123→270 FPS, deployed on Jetson Orin NX
+- EEE undergrad, BITS Pilani Goa Campus
+- Focused on systems programming, ML infra, and computer vision
+- Codeforces **Specialist**([Mr_Aaka](https://codeforces.com/profile/Mr_Aaka)) — 500+ problems solved
+- Ex Computer Vision Intern @ AIVID Techvision — optimized YOLOv6 (TensorRT/CUDA) 123→270 FPS, deployed on Jetson Orin NX
 
 ---
 
-### 🛠️ Stack
+### 🔧 Tools & Tech
+
+- React, TypeScript, Tailwind, Vite
+- Emscripten (WASM builds), REST APIs
+- BeautifulSoup, Google Sheets API
+- VS Code, Git, GitHub
+---
+
+###  Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
