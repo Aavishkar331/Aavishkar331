@@ -14,7 +14,7 @@ EEE + CS(minor) @ BITS Pilani, Goa · Software-leaning · Game Developer · Comp
 
 - 🎓 EEE undergrad, BITS Pilani Goa Campus
 - 🖥️ Focused on systems programming, ML infra, and computer vision
-- 🏆 Codeforces **Specialist** (max 1492) ([Mr_Aaka](https://codeforces.com/profile/Mr_Aaka)) — 500+ problems solved
+- 🏆 Codeforces **Specialist**([Mr_Aaka](https://codeforces.com/profile/Mr_Aaka)) — 500+ problems solved
 - 🎥 Ex Computer Vision Intern @ AIVID Techvision — optimized YOLOv6 (TensorRT/CUDA) 123→270 FPS, deployed on Jetson Orin NX
 
 ---
